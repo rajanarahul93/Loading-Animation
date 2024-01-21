@@ -6,6 +6,10 @@ This project demonstrates the creation of an interactive loading animation using
 
 
 
+Uploading Floating Cubes Animation - Google Chrome 2024-01-21 10-31-05.mp4…
+
+
+
 ## How to Use
 
 1. Clone this repository:
