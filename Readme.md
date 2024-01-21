@@ -6,7 +6,10 @@ This project demonstrates the creation of an interactive loading animation using
 
 
 
-Uploading Floating Cubes Animation - Google Chrome 2024-01-21 10-31-05.mp4…
+
+https://github.com/rajanarahul93/Loading-Animation/assets/123227543/a897192e-cc2d-45e2-9506-44c55a70de12
+
+
 
 
 
